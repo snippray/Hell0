@@ -1,0 +1,4 @@
+pysocks
+mechanize
+fuzzywuzzy[speedup]
+beautifulsoup4
