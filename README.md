@@ -10,11 +10,11 @@ This is the version 1.0 and it currently supports **`Windows`** platform.
 
 Required libraries:
 
-  python-levenshtein
-  fuzzywuzzy
-  pysocks
-  mechanize
-  beautifulsoup4
+- python-levenshtein
+- fuzzywuzzy
+- pysocks
+- mechanize
+- beautifulsoup4
   
 You can easily install them through `pip install -r requirements.txt`
   
