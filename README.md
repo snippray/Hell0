@@ -1,6 +1,7 @@
 # Introduction
 
 At first, I'm not a developer! I'm just an information security enthusiast that is interested in automating security operations. I hope my interest matches yours and by your contribution we could improve this program and make it more useful for those who are concerned about their security hygiene in cyberspace. 
+
 So, lets get down to business.
 **Hello Zero** is a very simple to use, yet powerful and effective tool designed to be a part of vulnerability and risk management program in the organization. It has been designed to gather zero-day exploits related to your system by extracting information about all hardware and software installed on your system and automatically scrap the darkweb everyday to track zero-day exploits that affect your system.
 This is the version 1.0 and it currently supports **`Windows`** platform.
