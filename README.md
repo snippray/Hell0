@@ -24,13 +24,11 @@ It requires TOR, MySQL(or any other database) and **Python 3** as well.
 
 
 ## Getting Started
-The only thing you need to do is to specify an email address of a person you want to get notified if related zero-day vulnerabilities are found and put that address in Email.txt.
+The only thing you need to do is to run the app and set the E-mail address you would like to receive alerts in "Emails.txt".
 
 **Hello Zero** will do the rest for you.
 
-```shell
-Hell0.py -u -db SysInfo.db -e emails.txt
-```
+
 ## How it works
 
 After collecting all information about software/hardware installed on your system and their corresponding version, Hello Zero automatically crawl the dark web for you to track any 0day exploits that might affect your system. After find any, it will send an E-mail to you about what you should notice.
