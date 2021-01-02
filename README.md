@@ -17,6 +17,8 @@ Required libraries:
 - mechanize
 - beautifulsoup4
 - PyQt5
+- packaging
+- PySimpleGUI
   
 You can easily install them through `pip install -r requirements.txt`
   
