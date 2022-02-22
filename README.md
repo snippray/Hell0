@@ -35,4 +35,4 @@ NOTE: Hello Zero uses **fuzzy string matching** as well as string metrics to cal
 
 ## Why do I need to use this tool?
 
-As mentioned earlier, Hello Zero has been designed to **complement your vulnerability and risk management programs**. Aside from patch management policies, we must be aware of the vulnerabilities traded on the dark web and affect our systems without patches. Therefore, if you are concerned about zero-day threats, this tool is right for you.
+As mentioned earlier, Hello Zero has been designed to **complement your vulnerability and risk management programs**. Aside from patch management policies, we must be aware of the vulnerabilities traded on the dark web which affect our systems without any available patches. Therefore, if you are concerned about zero-day threats, this tool might be right for you.
