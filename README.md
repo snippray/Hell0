@@ -29,6 +29,7 @@ The only thing you need to do is run the app and set the E-mail address you woul
 ## How it works
 
 After collecting all information about software/hardware installed on your system and their corresponding version, Hello Zero automatically crawls the dark web for you to track any zero-day exploits that might affect your system. After finding any defects, it will e-mail you with suitable information about what you should notice to avoid these exploits.
+
 NOTE: Hello Zero uses **fuzzy string matching** as well as string metrics to calculate the difference between sequences.
 
 ## Why do I need to use this tool?
