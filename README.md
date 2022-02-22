@@ -19,6 +19,7 @@ Required libraries:
 
   
 The prerequisites can be effortlessly installed via `pip install -r requirements.txt` command.
+
 It also requires TOR, MySQL (or any other databases), and Python 3.
 
 
